@@ -1,0 +1,30 @@
+.converter {
+    margin: 10% auto;
+    height: 100vh;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width: 300px;
+    height: 200px;
+    justify-content: center;
+    align-items: baseline;
+    padding: 10px 10px 0 10px ;
+}
+
+.disabled{
+    /*background-color: #e0e0e0;*/
+    border: #3f3f3f;
+    color: #000;
+}
+
+.Mui-disabled{
+    color: rgba(0, 0, 0, 0.6) !important;
+}
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input.Mui-disabled {
+    -webkit-text-fill-color: rgba(0, 0, 0) !important;
+    opacity: 1;
+}

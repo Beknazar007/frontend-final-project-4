@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    width: 100%;
+    background: hsla(200, 100%, 29%, 0.606);
+    height: 50px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.text{
+    display: flex;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
