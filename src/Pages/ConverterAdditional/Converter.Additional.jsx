@@ -20,17 +20,6 @@ const ConverterAdditional = () => {
     };
 
     const usdToSomRate = 89.31;
-
-    // useEffect(() => {
-    //     if (convertProduct.to === 'usd') {
-    //         const productPrice = productPrices[convertProduct.from];
-    //         if (!isNaN(productPrice) && !isNaN(convertProduct.amount)) {
-    //             setResult((productPrice * convertProduct.amount) / usdToSomRate);
-    //         }
-    //     } else {
-    //         setResult(productPrices[convertProduct.from] * convertProduct.amount);
-    //     }
-    // }, [convertProduct]);
     
     useEffect(() => {
         if (convertProduct.to === 'usd') {

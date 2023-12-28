@@ -11,6 +11,8 @@ npm start
 
 # deployed web-app [https://658b159a2ac87781f0dd92e4--idyllic-entremet-e1e713.netlify.app/foodConverter](https://658b159a2ac87781f0dd92e4--idyllic-entremet-e1e713.netlify.app/)
 
+[Currency Converter App video](https://youtu.be/2vFcIZIxIww)
+
 scrrenshots are here ->
 
 ![image](https://github.com/Beknazar007/FinalProjectWeb/assets/58647571/678cc1fa-a1a5-4730-a7da-897e2260216b)
