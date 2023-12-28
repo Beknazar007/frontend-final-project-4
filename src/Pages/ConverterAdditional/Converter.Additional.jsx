@@ -17,6 +17,7 @@ const ConverterAdditional = () => {
         shawerma: 220, 
         shoro: 80,
         qorot: 30,
+        toibos: 70,
     };
 
     const usdToSomRate = 89.31;
