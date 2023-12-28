@@ -15,12 +15,12 @@ npm start
 
 scrrenshots are here ->
 
-![image](https://imgur.com/WCAqojv)
+![image](./src/screenshots/WCAqojv.png)
 
-![image](https://imgur.com/viWgSOg)
+![image](./src/screenshots/18WjagF%20-%20Imgur.png)
 
-![image](https://imgur.com/wBZ3lGe)
+![image](./src/screenshots/rywwu7x%20-%20Imgur.png)
 
-![image](https://imgur.com/18WjagF)
+![image](./src/screenshots/viWgSOg%20-%20Imgur.png)
 
-![image](https://imgur.com/rywwu7x)
+![image](./src/screenshots/wBZ3lGe%20-%20Imgur.png)
